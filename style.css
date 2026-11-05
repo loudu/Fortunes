@@ -226,3 +226,7 @@ main {
   .bar__value, .bar__year { font-size: 0.68rem; }
   .block { scroll-margin-top: 170px; }
 }
+
+.intro { font-size: 0.88rem; color: var(--muted); margin: -8px 0 16px; max-width: 65ch; }
+.card--todo { border-style: dashed; border-color: var(--muted); }
+.card--todo .value { color: var(--muted); }
